@@ -7,7 +7,7 @@ console.log("The bot is starting");
 
 let T = new Twit(config);
 
-let tweet = prompt('What do you want to sync?');
+let tweet = prompt('What do you want to tweet?');
 
 
 T.post('statuses/update', { status: tweet }, tweeted);
