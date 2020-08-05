@@ -1,2 +1,2 @@
 # post-tweets
-Post tweets using the Twit API
+Post tweets based on user input using the Twit API.
